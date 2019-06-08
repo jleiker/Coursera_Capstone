@@ -1,5 +1,5 @@
 # Coursera_Capstone
-Repository containing capstone project for IBM's Data Science Professional Certificate (WIP).
+Repository containing capstone project for IBM's Data Science Professional Certificate.
 
 Week 1 Notebook is just a test of publishing to GitHub directly from IBM Watson Studio.
 
